@@ -1,0 +1,29 @@
+{
+  "name": "gdg-x-vaadin-polan2",
+  "description": "GDG-x with Polymer + Angular 2",
+  "main": "",
+  "authors": [
+    "Mario Padilla Carrión <mca@expandit.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "polymer",
+    "angular",
+    "2",
+    "gdg"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "^1.0.7",
+    "vaadin-combo-box": "^1.1.5",
+    "vaadin-grid": "^1.2.0"
+  }
+}
